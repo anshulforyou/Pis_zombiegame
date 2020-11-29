@@ -1,2 +1,3 @@
-# Pis_zombiegame
-A zombie game created by our team for our PIS minor project submission.
+# Zombiegame
+A zombie-themed shooting game for mobile which had a unique console
+hardware containing multiple sensors to send signals to the game and interact with it.
